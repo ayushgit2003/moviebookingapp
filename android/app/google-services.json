@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179034810722",
+    "project_id": "moviemozzo",
+    "storage_bucket": "moviemozzo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179034810722:android:8a32af939b1d1f01df643b",
+        "android_client_info": {
+          "package_name": "com.asoft.moviemozzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179034810722-me82lu6nai87gc4u3p93m7vmr5fdtpso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDALisHrWSA_mw9oU9sA-iqxcXTBOszOx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179034810722-me82lu6nai87gc4u3p93m7vmr5fdtpso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
